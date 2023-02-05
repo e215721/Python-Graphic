@@ -1,0 +1,6 @@
+[submodule "src/e215721/themes/themes/mainroad"]
+	path = src/e215721/themes/themes/mainroad
+	url = https://github.com/vimux/mainroad
+[submodule "src/my-site/themes/themes/mainroad"]
+	path = src/my-site/themes/themes/mainroad
+	url = https://github.com/vimux/mainroad
